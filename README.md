@@ -1,5 +1,3 @@
-This is my website, built with threejs. 
-
-I intend this to be a hub for all my various projects.
+This is an older version of my portfolio website, built with threejs. 
 
 Currently it is incomplete and poorly optimized for mobile devices.
